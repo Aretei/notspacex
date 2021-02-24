@@ -1,0 +1,65 @@
+.mainBody {
+    background: url(https://www.spacex.com/static/images/backgrounds-new/Desktop_StarL19_DSC_1291.webp);
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+.logoThing {
+    color: white;
+    font-size: 30px;
+    margin-left: 320px;
+}
+
+.headerThing {
+    height: 70vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.button {
+    margin-top: 40px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.buttonThing {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+}
+
+.lowerSection {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-left: 15vw;
+}
+
+.recent {
+    color: white;
+    margin: 15px;
+}
+
+.bold {
+    color: white;
+    font-size: 40px;
+    margin: 15px;
+}
+
+.box {
+    color: white;
+    border: white 2px;
+    margin: 15px;
+}
+
+.burger {
+    width: 30px;
+    color: white;
+    display: flex;
+    justify-content: right;
+}
